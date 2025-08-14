@@ -54,7 +54,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by SATYA PRAKASH SWAIN made by ❤️from INDIA.
+Developed by SATYA PRAKASH SWAIN ,made with ❤️ from INDIA.
 
 ## Contact
 
